@@ -1,7 +1,7 @@
 # Диаграмма БД для приложения java-filmorate
 
 
-![](E:\dev\java-filmorate\src\main\resources\ff.png "Диаграмма БД")
+![]([https://github.com/BarkovRoman/BD-java-filmorate/blob/main/ff.png "Диаграмма БД")
 
 ### Описание
 На данной диаграмме показана структура и связь таблиц в базе данных.
